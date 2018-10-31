@@ -1,0 +1,9 @@
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe.config
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.exe
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\bin\Release\ConsoleApp2.pdb
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\bin\Release\Microsoft.Extensions.CommandLineUtils.dll
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\bin\Release\Microsoft.Extensions.CommandLineUtils.xml
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.csproj.CopyComplete
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.exe
+D:\Files\_School\Bewijzenmap\p3\consoleapp2\ConsoleApp2\ConsoleApp2\obj\Release\ConsoleApp2.pdb
